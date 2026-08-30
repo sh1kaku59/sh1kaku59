@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 Cử nhân Kỹ thuật Phần mềm có nền tảng nghiên cứu học thuật chuyên sâu kết hợp tư duy phát triển phần mềm Full-stack thực chiến. 
-- 🎓 **Education:** Cử nhân Kỹ thuật Phần mềm – Đại học Văn Lang (Đồ án tốt nghiệp).
+- 🎓 **Education:** Cử nhân Kỹ thuật Phần mềm – Đại học Văn Lang.
 - 🔬 **Research:** Đồng tác giả bài báo khoa học quốc tế được công bố tại **Hội nghị Quốc tế FDSE 2025** (Springer).
 - 💼 **Industry Experience:** Từng đảm nhiệm vị trí Full-Stack Developer Intern tại **MITEK J.S.C**, trực tiếp phát triển hệ thống lõi Voice AI - Workflow Callout (FastAPI, Supabase, PostgreSQL) với độ trễ phản hồi < 1.5s.
 - 🎯 **Career Goal:** Tìm kiếm cơ hội làm việc tại vị trí **Software Engineer / Full-Stack Developer** (.NET, Python/FastAPI, React.js).
